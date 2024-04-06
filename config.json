@@ -1,0 +1,7 @@
+{
+  "token": "ACCOUNT TOKEN HERE",
+  "prefix": "BOT PREFIX HERE",
+  "MPC": 20,
+  "message": "Message to spam"
+}
+
